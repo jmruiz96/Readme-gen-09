@@ -1,16 +1,19 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if (license === "MIT"){
-    return "https://img.shields.io/badge/License-MIT-yellow.svg"
-  } else if (license === "Apache"){
-    return "https://img.shields.io/badge/License-Apache_2.0-blue.svg"
-  } else if (license === "GPL"){
-    return "https://img.shields.io/badge/License-GPLv3-blue.svg"
-  } else {
-    return ""
-  }
+  switch(license) {
+    case "MIT": license = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+      break;
+    case "Apache": license = "[![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+      break;
+    case "GPL": license = "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)";
+      break;
+    case "none": license = "";
+      break;
+    }
+    return license
 }
+//cannot get badges to work will have to switch to es6?
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string

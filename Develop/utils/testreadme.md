@@ -1,5 +1,5 @@
 
-# me https://img.shields.io/badge/License-MIT-yellow.svg
+# please [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -11,24 +11,24 @@
 - [Contact](#contact)
 
 ## Description
-it
+worj
 
 ## Installation
-things
+that
 
 ## Usage
-enter
+would
 
 ## License
 > **Note**: This application is covered under the MIT license. https://opensource.org/licenses/MIT
 
 ## Contributing
-no
+be 
 
 ## Tests
-console.log
+great
 
 ## Contact
 Feel free to reach out to me with any questions.  
-[Github](https://github.com/yee)  
-[Email](mailto:yeet)
+[Github](https://github.com/hf)  
+[Email](mailto:hf)
