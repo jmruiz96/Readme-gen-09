@@ -1,5 +1,5 @@
 
-# j https://img.shields.io/badge/License-Apache_2.0-blue.svg
+# me https://img.shields.io/badge/License-MIT-yellow.svg
 
 ## Table of Contents
 - [Description](#description)
@@ -11,24 +11,24 @@
 - [Contact](#contact)
 
 ## Description
-j
+it
 
 ## Installation
-j
+things
 
 ## Usage
-j
+enter
 
 ## License
-> **Note** This application is covered under the Apache license. https://opensource.org/licenses/Apache-2.0
+> **Note**: This application is covered under the MIT license. https://opensource.org/licenses/MIT
 
 ## Contributing
-j
+no
 
 ## Tests
-j
+console.log
 
 ## Contact
 Feel free to reach out to me with any questions.  
-[Github](https://github.com/j)  
-[Email](mailto:j)
+[Github](https://github.com/yee)  
+[Email](mailto:yeet)
