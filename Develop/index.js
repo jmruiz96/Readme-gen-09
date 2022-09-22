@@ -6,6 +6,8 @@ const genMarkdown = require("./utils/generateMarkdown")
 // TODO: Create an array of questions for user input
 const questions = [
     // title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+    inquirer
+    .prompt([
     {
         type: "input",
         message: "What is the title of the project?",
@@ -52,13 +54,14 @@ const questions = [
         message: "What is your email?",
         name: "email",
     },
+])
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+// function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+// function init() {}
 
 // Function call to initialize app
-init();
+// init();
