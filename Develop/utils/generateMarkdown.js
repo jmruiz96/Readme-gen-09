@@ -44,6 +44,7 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  // I tried to put the different inputs in the () but it didnt work so I just put data in there.
   return `
 # ${data.title} ${renderLicenseBadge(data.license)}
 
@@ -75,10 +76,10 @@ ${data.contributing}
 ${data.tests}
 
 ## Contact
-Use the links below to contact the creator with questions.  
+Feel free to reach out to me with any questions.  
 [Github](https://github.com/${data.github})  
 [Email](mailto:${data.email})
 `;
 }
-
+//had to add 'data.' infront of all the targets
 module.exports = generateMarkdown;

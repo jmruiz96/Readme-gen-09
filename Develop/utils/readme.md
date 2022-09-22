@@ -1,5 +1,5 @@
 
-# joe https://img.shields.io/badge/License-MIT-yellow.svg
+# j https://img.shields.io/badge/License-Apache_2.0-blue.svg
 
 ## Table of Contents
 - [Description](#description)
@@ -11,24 +11,24 @@
 - [Contact](#contact)
 
 ## Description
-cool
+j
 
 ## Installation
-stuff
+j
 
 ## Usage
-do
+j
 
 ## License
-> **Note**: This application is covered under the MIT license. https://opensource.org/licenses/MIT
+> **Note** This application is covered under the Apache license. https://opensource.org/licenses/Apache-2.0
 
 ## Contributing
-cant
+j
 
 ## Tests
-console.log
+j
 
 ## Contact
-Use the links below to contact the creator with questions.  
-[Github](https://github.com/jmruiz96)  
-[Email](mailto:jmruiz96@gmail.com)
+Feel free to reach out to me with any questions.  
+[Github](https://github.com/j)  
+[Email](mailto:j)
