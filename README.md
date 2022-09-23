@@ -20,7 +20,9 @@ fs
 ## Usage
 Enter node index.js into the command line.
 
-[Live Link](https://jmruiz96.github.io/Readme-gen-09/)
+---------[Live Link](https://jmruiz96.github.io/Readme-gen-09/)---------
+
+[![Watch the video](./Develop/imgs/Screen%20Shot%202022-09-22%20at%208.28.42%20PM.png)](https://watch.screencastify.com/v/nnuLjKQT7YfZAh8EBU11)
 
 ![Webpage Screenshot](./Develop/imgs/Screen%20Shot%202022-09-22%20at%208.11.33%20PM.png)
 ![Webpage Screenshot](./Develop/imgs/Screen%20Shot%202022-09-22%20at%208.13.15%20PM.png)
