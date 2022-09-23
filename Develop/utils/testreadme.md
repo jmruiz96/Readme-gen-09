@@ -1,5 +1,4 @@
-
-# Readme-Gen [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Super cool backend app [![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
 - [Description](#description)
@@ -11,22 +10,22 @@
 - [Contact](#contact)
 
 ## Description
-This is a backend application that will generate a readme.md file.
+The title says is all
 
 ## Installation
-you will need to download inquirer and use fs.
+inquirer and fs
 
 ## Usage
-enter node index.js into the command line.
+enter node index.js in the command line
 
 ## License
-> **Note**: This application is covered under the MIT license. https://opensource.org/licenses/MIT
+> **Note** This application is covered under the Apache license. https://opensource.org/licenses/Apache-2.0
 
 ## Contributing
-I have attached my github to this readme.
+they can
 
 ## Tests
-console.log everything!
+console.log
 
 ## Contact
 Feel free to reach out to me with any questions.  
